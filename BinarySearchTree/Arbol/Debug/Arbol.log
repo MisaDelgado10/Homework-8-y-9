@@ -1,0 +1,6 @@
+﻿  Arbol.cpp
+D:\5to semestre online\Data Structures\Act Certificacion\BinarySearchTree\Arbol\Arbol.cpp(72,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+D:\5to semestre online\Data Structures\Act Certificacion\BinarySearchTree\Arbol\Arbol.cpp(93,19): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+D:\5to semestre online\Data Structures\Act Certificacion\BinarySearchTree\Arbol\Arbol.cpp(163,39): warning C4018: '<': no coinciden signed/unsigned
+D:\5to semestre online\Data Structures\Act Certificacion\BinarySearchTree\Arbol\Arbol.cpp(171,39): warning C4018: '<': no coinciden signed/unsigned
+  Arbol.vcxproj -> D:\5to semestre online\Data Structures\Act Certificacion\BinarySearchTree\Debug\Arbol.exe
